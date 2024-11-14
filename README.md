@@ -39,9 +39,9 @@ Soy un **docente y desarrollador IT** con una sólida trayectoria en **educació
 - Desarrollo de recursos para **Git** y **GitHub**.
 
 ## 📫 Cómo contactarme
-- **Correo:** [luisgs@example.com](mailto:luisgs@example.com)  
+- **Correo:** 
 - **LinkedIn:** [linkedin.com/in/luisgarciasanchez](https://linkedin.com/in/luisgarciasanchez)  
-- **Twitter:** [@luisgs_unir](https://twitter.com/luisgs_unir)  
+- **Twitter:** 
 
 ## 😄 Pronombres
 Él/Él  
